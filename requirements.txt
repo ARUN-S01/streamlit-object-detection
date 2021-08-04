@@ -3,7 +3,6 @@ tensorflow_gpu
 six
 numpy
 opencv-python-headless
-opencv-python
 matplotlib
 mock
 nets
