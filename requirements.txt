@@ -2,7 +2,7 @@ lxml==4.6.3
 tensorflow_gpu==2.5.0
 six==1.15.0
 numpy==1.19.3
-opencv_python==4.5.3.56
+opencv-python==4.5.3.56
 matplotlib==3.3.2
 mock==4.0.3
 nets==0.0.3.1
